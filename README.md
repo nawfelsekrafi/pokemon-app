@@ -32,8 +32,8 @@ A modern React application built with TypeScript and Vite for browsing and viewi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd my-pokemon-app
+   git clone https://github.com/nawfelsekrafi/pokemon-app
+   cd pokemon-app
    ```
 
 2. **Install dependencies**
